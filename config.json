@@ -1,0 +1,10 @@
+{
+  "port": "8080",
+  "adminAccount": "admin@admin.com",
+  "timeout":120000,
+  "db": {
+    "servername": "10.31.3.21",
+    "DATABASE": "yapi",
+    "port": 32699
+  }
+}
